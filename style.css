@@ -1,0 +1,206 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+  }
+  
+  /* Home */
+  
+  body{
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    overflow-y: scroll;
+    font-family: Poppins;
+    background: url(greek-vase.png);
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  .v10__3 {
+    width: 57px;
+    height: 57px;
+    /* background: rgba(255,200,95,1); */
+    opacity: 1;
+    position: absolute;
+    top: 850px;
+    left: 925px;
+  }
+  .name {
+    color: #fff;
+  }
+  .v6_2 {
+    width: 169px;
+    color: rgba(7,32,255,1);
+    position: absolute;
+    top: 75px;
+    left: 200px;
+    font-family: Poppins;
+    font-weight: Bold;
+    font-size: 25px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v6_5 {
+    width: 451px;
+    height: 40px;
+    /* background: url("Vector.svg"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 5px 37px;
+    margin: 48px;
+    opacity: 1;
+    position: absolute;
+    top: 75px;
+    left: 431px;
+    overflow: hidden;
+  }
+  .v6_3 {
+    width: 60px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 5px;
+    left: 37px;
+    font-family: Poppins;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v10_7 {
+    width: 107px;
+    height: 30px;
+    /* background: url("android/icon/24/arrow-down.svg"); */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin: 1px;
+    opacity: 1;
+    position: absolute;
+    top: 5px;
+    left: 123px;
+    overflow: hidden;
+  }
+  .v10__7 {
+    width: 24px;
+    height: 24px;
+    /* background: rgba(255,200,95,1); */
+    opacity: 1;
+    position: absolute;
+    top: 6px;
+    left: 210px;
+  }
+  .v6_28 {
+    width: 82px;
+    color: rgba(0,0,0,1);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    font-family: Poppins;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  .name {
+    color: #fff;
+  }
+  .v6_29 {
+    width: 53px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 5px;
+    left: 256px;
+    font-family: Poppins;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v10_35 {
+    width: 700px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 5px;
+    left: 335px;
+    font-family: Poppins;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v10_26 {
+    width: 130px;
+    height: 23px;
+    background: rgba(255,255,255,1);
+    margin: 10px;
+    opacity: 1;
+    position: absolute;
+    top: 126px;
+    left:1552px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+  }
+  .v10_25 {
+    width: 53px;
+    color: rgba(7,32,255,1);
+    position: absolute;
+    top: 0px;
+    left: 29px;
+    font-family: Poppins;
+    font-weight: Regular;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v10_11 {
+    width: 9px;
+    height: 9px;
+    /* background: rgba(168,168,168,1); */
+    opacity: 1;
+    position: absolute;
+    top: 1px;
+    left: 92px;
+  }
+  .v10_27 {
+    width: 130px;
+    height: 23px;
+    background: rgba(7,32,255,1);
+    margin: 10px;
+    opacity: 1;
+    position: absolute;
+    top: 126px;
+    left:1392px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    overflow: hidden;
+  }
+  .v10_28 {
+    width: 57px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 0px;
+    left: 37px;
+    font-family: Poppins;
+    font-weight: Bold;
+    font-size: 15px;
+    opacity: 1;
+    text-align: left;
+  }
+/* .wrapper {
+    width: 350px; 
+    padding:20px;
+    top: 100px;
+    left: 30px;
+} */
